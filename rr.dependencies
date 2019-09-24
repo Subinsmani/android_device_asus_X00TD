@@ -1,0 +1,14 @@
+[
+{
+    "remote":      "github",
+    "repository":  "PixelExperience-Devices/kernel_asus_sdm660",
+    "target_path": "kernel/asus/sdm660",
+    "branch":      "pie"
+  },
+{
+    "remote":      "github",
+    "repository":  "PixelExperience-Devices/vendor_asus_X00TD",
+    "target_path": "vendor/asus",
+    "branch":      "pie"
+  },
+]
